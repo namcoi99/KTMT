@@ -5,7 +5,7 @@ For example: “abc121cba” is a palindrome. Store all palindromes which user t
 For example: Get "10" as decimal number then display "1010" as binary and "A" as hexadecimal.
 ## bai9.asm: Draw a picture using ASCII code
 A picture converted to ASCII code was given. A menu was built to interact with each word in it. <br />
-*Border was times(\*) symbol and numbers in the middle are displayed color.* <br />
+*P/s: Border was times(\*) symbol and numbers in the middle are displayed color.* <br /> <br />
 **Menu**
 ```
 1. Display picture.
